@@ -60,3 +60,7 @@
   grid-area: blue;
   border-top-right-radius: 100%;
 }
+
+.selected {
+  filter: brightness(0.8);
+}
